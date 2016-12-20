@@ -1,0 +1,10 @@
+Package: LassoADMM
+Type: Package
+Title: Linear and Logistic Regression Estimation Using ADMM Algorithm.
+Version: 0.1.0
+Author: Shouao Wang & Yi Lian
+Maintainer: Shouao Wang <shouao.wang@mail.mcgill.ca>; Yi Lian <yi.lian@mail.mcgill.ca>
+Description: The package contains four functions that allow users to perform estimation and variable selection in linear and logistic regressions with LASSO or group LASSO penalty using ADMM algorithms.
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
